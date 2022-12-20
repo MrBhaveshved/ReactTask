@@ -1,0 +1,11 @@
+.container-img{
+    height: 500px;
+    color: aquamarine;
+    /* background-color: black; */
+    
+}
+.list-item li{
+    display: block;
+    line-height: 1.5;
+    margin-top: 10px;
+}
